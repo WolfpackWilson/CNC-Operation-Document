@@ -1,7 +1,6 @@
 # CNC-Operation-Document
-Independent study to make a machining document for CNC mills W'20 at WWU. T
-
-The macro was created for the CAD software CATIA-V5. Please refer to the MFGE 495 Report document for in-depth details on the study.
+The macro program was created for the CAD software CATIA-V5. 
+Please refer to the MFGE 495 Report document for in-depth details on the study.
 
 Info on the files included:
 - CNC_Sheet.bas - primary code

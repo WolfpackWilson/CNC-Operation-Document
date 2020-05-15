@@ -2,6 +2,11 @@
 The macro program was created for the CAD software CATIA-V5. 
 Please refer to the MFGE 495 Report document for in-depth details on the study.
 
+#### Files included:
+- Current Output.pdf - example output
+- MFGE 495 Report.pdf - report on the study
+- OpDoc.catvba - the macro 
+
 ### Installation
 1. Save `OpDoc.catvba` to a dedicated macro folder
 1. In CATIA, navigate to `Tools > Macro > Macros...`
@@ -12,8 +17,3 @@ Please refer to the MFGE 495 Report document for in-depth details on the study.
 1. In the dropdown menu, select the macro folder location if it's not selected already
 1. Select the macro `CNC_Sheet` so it becomes highlighted then press the `Run` button
 > Note: Make sure you are in the machining workbench before running the macro program.
-
-#### Files included:
-- Current Output.pdf - example output
-- MFGE 495 Report.pdf - report on the study
-- OpDoc.catvba - the macro 
